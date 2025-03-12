@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/folio/static/css/main.efc63aa1.css",
+    "main.js": "/folio/static/js/main.7ad10cbd.js",
+    "static/js/453.911064af.chunk.js": "/folio/static/js/453.911064af.chunk.js",
+    "static/media/kmg.jpg": "/folio/static/media/kmg.b670b4e67cd46747ba70.jpg",
+    "static/media/location.png": "/folio/static/media/location.4ba2450b71e973e57b09.png",
+    "static/media/github.png": "/folio/static/media/github.67f8667cbb15ed57f4de.png",
+    "static/media/mailblack.png": "/folio/static/media/mailblack.a8df4638190bd6b7b9b5.png",
+    "static/media/texbub.png": "/folio/static/media/texbub.c41c9d0f370156313993.png",
+    "static/media/Recipe to You .png": "/folio/static/media/Recipe to You .fea9def1d0ac6a5fa3ff.png",
+    "static/media/cake.png": "/folio/static/media/cake.954fe590599b4193d323.png",
+    "index.html": "/folio/index.html",
+    "main.efc63aa1.css.map": "/folio/static/css/main.efc63aa1.css.map",
+    "main.7ad10cbd.js.map": "/folio/static/js/main.7ad10cbd.js.map",
+    "453.911064af.chunk.js.map": "/folio/static/js/453.911064af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc63aa1.css",
+    "static/js/main.7ad10cbd.js"
+  ]
+}
