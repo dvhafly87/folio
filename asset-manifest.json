@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/folio/static/css/main.527f67de.css",
-    "main.js": "/folio/static/js/main.2962ff1d.js",
+    "main.css": "/folio/static/css/main.fa40aabe.css",
+    "main.js": "/folio/static/js/main.1ecd3b64.js",
     "static/js/453.911064af.chunk.js": "/folio/static/js/453.911064af.chunk.js",
+    "static/media/RecipetoYou2.png": "/folio/static/media/RecipetoYou2.6ce43ba6537febe1af0b.png",
+    "static/media/funny.png": "/folio/static/media/funny.2e7c0a7e446899edbb2f.png",
+    "static/media/RecipetoYou1.png": "/folio/static/media/RecipetoYou1.33f73573540c664182c0.png",
+    "static/media/finally.png": "/folio/static/media/finally.61697675aa1f01360378.png",
     "static/media/kmg.jpg": "/folio/static/media/kmg.b670b4e67cd46747ba70.jpg",
     "static/media/location.png": "/folio/static/media/location.4ba2450b71e973e57b09.png",
     "static/media/github.png": "/folio/static/media/github.67f8667cbb15ed57f4de.png",
+    "static/media/jqx.png": "/folio/static/media/jqx.9ea13afcea2cd357e287.png",
     "static/media/mailblack.png": "/folio/static/media/mailblack.a8df4638190bd6b7b9b5.png",
+    "static/media/REACTSPIN.png": "/folio/static/media/REACTSPIN.da750acc657eefdd0c18.png",
     "static/media/texbub.png": "/folio/static/media/texbub.c41c9d0f370156313993.png",
     "static/media/Recipe to You .png": "/folio/static/media/Recipe to You .fea9def1d0ac6a5fa3ff.png",
     "static/media/cake.png": "/folio/static/media/cake.954fe590599b4193d323.png",
     "index.html": "/folio/index.html",
-    "main.527f67de.css.map": "/folio/static/css/main.527f67de.css.map",
-    "main.2962ff1d.js.map": "/folio/static/js/main.2962ff1d.js.map",
+    "main.fa40aabe.css.map": "/folio/static/css/main.fa40aabe.css.map",
+    "main.1ecd3b64.js.map": "/folio/static/js/main.1ecd3b64.js.map",
     "453.911064af.chunk.js.map": "/folio/static/js/453.911064af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.527f67de.css",
-    "static/js/main.2962ff1d.js"
+    "static/css/main.fa40aabe.css",
+    "static/js/main.1ecd3b64.js"
   ]
 }
